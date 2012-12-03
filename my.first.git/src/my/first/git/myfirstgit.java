@@ -6,6 +6,8 @@ public class myfirstgit {
 		
 		System.out.print("Welocme to my first GIT");
 		
+		System.out.print("My GIT is edited");
+		
 	}
 	
 }
